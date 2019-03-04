@@ -1,8 +1,13 @@
 # Java-Game-Master
 
-Author: Jeffrey Liv
-Email: jeffro001@csu.fullerton.edu
-Description: The Games Master program is a program that contains two games
+Author: 
+Jeffrey Liv
+
+Email: 
+Jeffroliv@hotmail.com
+
+Description: 
+The Games Master program is a program that contains two games
 called The Number Guess Game and The Nim Game. The objective of the number guess game is to guess the correct number
 within the range of 1 to 1000. The user will be prompted whether their 
 guess is warmer or colder. The objective of the Nim game is to beat the AI
