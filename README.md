@@ -35,7 +35,3 @@ must make a legal move; otherwise, the AI will choose randomly again until a leg
 is made. After every turn the newly modified board is displayed for the user. Afer every
 turn, if all pebbles are gone then the person (user or AI) who took the last pebbles is
 the winner. 
-
-For the nim game, I had a hard time figuring out the win conditions. At first, I
-checked to see if the ArrayList was null; however the ArrayList will not be able to equal
-null since ArrayList contained integers. 
